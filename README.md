@@ -1,2 +1,2 @@
-# L-PRESS-MACHINE-CODE
-The code of the L-PRESS corner bracket production machine, prepared as a final project for the Pneumatics course at Uludağ University in Bursa, Turkey.
+# Me
+"I share the test and final version codes of my projects, which are mainly focused on mechatronics. All of my projects are based on either Raspberry Pi or Arduino, and since most of them are mechatronics-related, I also share the CAD files on my GrabCAD profile.
